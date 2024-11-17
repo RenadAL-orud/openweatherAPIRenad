@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-17T21:59:17 EET" name="Default suite" finished-at="2024-11-17T21:59:22 EET" duration-ms="5498">
+    <groups>
+    </groups>
+    <test started-at="2024-11-17T21:59:17 EET" name="Default test" finished-at="2024-11-17T21:59:22 EET" duration-ms="5498">
+      <class name="openweatherAPI">
+        <test-method signature="testGetAndUseDescription()[pri:0, instance:openweatherAPI@564fabc8]" started-at="2024-11-17T21:59:17 EET" name="testGetAndUseDescription" finished-at="2024-11-17T21:59:22 EET" duration-ms="5464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAndUseDescription -->
+      </class> <!-- openweatherAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
